@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pkl
+SmoothPrec_at_K.py
+*.xlsx

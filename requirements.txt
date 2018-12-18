@@ -1,0 +1,10 @@
+tqdm
+future
+scipy
+numpy
+sklearn
+pillow
+requests
+six
+tarfile
+zipfile
